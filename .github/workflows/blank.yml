@@ -1,0 +1,7 @@
+echo "# PC-virtual-gratis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/snowsxd775-a11y/PC-virtual-gratis.git
+git push -u origin main
